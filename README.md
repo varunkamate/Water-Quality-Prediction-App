@@ -1,1 +1,1 @@
-# Water-Quality-Prediction-App
+💧 Water Quality Prediction App
