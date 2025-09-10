@@ -67,4 +67,20 @@ streamlit run app.py
 
 Use Case
 
-This app is useful for demonstrating how machine learning can assist in environmental monitoring and public health decisions by providing quick assessments of water potability.
+This app is useful for demonstrating how machine learning can assist in environmental monitoring and public health
+decisions by providing quick assessments of water potability.
+===================================================================================================================
+
+
+<img width="1919" height="796" alt="Screenshot 2025-09-10 123225" src="https://github.com/user-attachments/assets/ed016912-3590-40f4-bd29-80a1e1396488" />
+
+
+===================================================================================================================
+
+
+<img width="388" height="854" alt="Screenshot 2025-09-10 123212" src="https://github.com/user-attachments/assets/c6ef7189-5006-4cc8-be9a-6d6b9dbcadd6" />
+
+
+===================================================================================================================
+
+<img width="1063" height="393" alt="Screenshot 2025-09-10 123205" src="https://github.com/user-attachments/assets/3d03bfa7-59de-4668-9dd4-0c824125b63c" />
